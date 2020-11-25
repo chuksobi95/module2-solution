@@ -1,0 +1,99 @@
+  	/********** Base styles **********/
+* {
+	box-sizing: border-box; 
+}
+
+h1 {
+	font-size:175%;
+	font-family: Helvetica;
+	text-align: center;
+	margin-bottom: 15px;
+	width: 91.5%;
+
+
+}
+
+div.enclose{
+	width:100%;
+}
+
+div.menu-content{
+	position: relative;
+	height:auto;
+	width:90%;
+	border: 1px solid black;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	background-color: #999999;
+
+}
+
+
+section.menu-header {
+	position: absolute;
+	right:0;
+	font-weight: bold;
+	width:150px;
+	border :1px solid black;
+	margin-top: 0;
+	text-align: center;
+	font-size: 125%;
+	
+
+}
+
+p.content{
+	padding: 10px;
+}
+
+#Chicken{
+	background-color: #d59898;
+	font-family: Helvetica;
+}
+
+#Beef{
+	background-color: #c14543;
+	font-family: Helvetica;
+	color: white;
+}
+
+#Sushi{
+	background-color: #e5d198;
+	font-family: Helvetica;
+}
+
+/********** Desktop view only *********/
+@media (min-width: 992px) {
+  .menu-content.col-lg-4 {
+  	width: 32%;
+  	float: left;
+  	margin-right: 13px;
+  }
+}
+
+/********** tablet view only ********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .menu-content.col-md-12{
+  	width:91.5%;
+  	float: left;
+
+
+  	}
+  
+  .menu-content.col-md-6 {
+  	width: 45%;
+  	float: left;
+  	margin-right: 13px;
+  }
+}
+/********** mobile view only ********/
+@media  (max-width: 767px) {
+	 .menu-content.col-sm-12{
+  	width:91.5%;
+  	float: left;
+
+
+  	}
+
+}

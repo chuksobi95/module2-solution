@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" width=device-width, initial-scale=1">
+  <title>Solution to moudle 2</title>
+  <link rel="stylesheet" type="text/css" href="module2assignment.css">
+  
+</head>
+<body>
+<div>
+	<h1>Our Menu</h1>
+	<section class="enclose">
+		<div class="menu-content col-lg-4 col-md-6 col-sm-12">
+			<section class="menu-header" id="Chicken">Chicken</section><br>
+			<p class="content">Duis quam dolor, ornare in nulla nec, convallis consectetur lacus. Etiam sagittis suscipit ante sed rhoncus. Ut laoreet ut sem a porta. Nam dolor lorem, tristique ut vulputate eget, pulvinar vel magna. Aliquam cursus nulla purus, ac rhoncus odio sagittis et. Donec placerat, ex quis feugiat mattis, tortor diam aliquam est, in viverra ligula nunc eget nisi. Nulla non vestibulum lectus. Vestibulum viverra pellentesque metus, nec condimentum neque viverra at</p>
+		</div>
+		<div class="menu-content col-lg-4 col-md-6 col-sm-12">
+			<section class="menu-header" id="Beef">Beef</section><br>
+			<p class="content">Duis quam dolor, ornare in nulla nec, convallis consectetur lacus. Etiam sagittis suscipit ante sed rhoncus. Ut laoreet ut sem a porta. Nam dolor lorem, tristique ut vulputate eget, pulvinar vel magna. Aliquam cursus nulla purus, ac rhoncus odio sagittis et. Donec placerat, ex quis feugiat mattis, tortor diam aliquam est, in viverra ligula nunc eget nisi. Nulla non vestibulum lectus. Vestibulum viverra pellentesque metus, nec condimentum neque viverra at</p>
+		</div>
+		<div class="menu-content col-lg-4 col-md-12 col-sm-12">
+			<section class="menu-header" id="Sushi">Sushi</section><br>
+			<p class="content">Duis quam dolor, ornare in nulla nec, convallis consectetur lacus. Etiam sagittis suscipit ante sed rhoncus. Ut laoreet ut sem a porta. Nam dolor lorem, tristique ut vulputate eget, pulvinar vel magna. Aliquam cursus nulla purus, ac rhoncus odio sagittis et. Donec placerat, ex quis feugiat mattis, tortor diam aliquam est, in viverra ligula nunc eget nisi. Nulla non vestibulum lectus. Vestibulum viverra pellentesque metus, nec condimentum neque viverra at</p>
+		</div>
+		
+	</section>
+</div>
 
-You can use the [editor on GitHub](https://github.com/chuksobi95/module2-solution/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuksobi95/module2-solution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
